@@ -3,14 +3,14 @@
 
 ~~~
 {}{img_left}{hlwen_photo.jpg}{alt text}{120}{160}
-PhD candidate,\n Department of Electrical Engineering, \n Shanghai Jiao Tong University \n
-E-mail: [linlin00@sjtu.edu.cn]; [hongwen@dtu.dk]\n
+PostDoc,\n Department of Electrical Engineering, \n Shanghai Jiao Tong University \n
+E-mail: [linlin00@sjtu.edu.cn]; \n
 ~~~
 
 == Biography
-Hi, I am a PhD candidate at Shanghai Jiao Tong University, advised by Prof. Zhijian Jin, and co-advised by Prof. Jie Gu and Prof. Jinghuan Ma. Previously, I obtained my B.E. from EE, Shanghai Jiao Tong University (top 5%). Since April 2021, I am on a research stay at operation research group, Technical University of Denmark, supervised by Prof. [https://pierrepinson.com/ Pierre Pinson]. 
+Hi, I am a PostDoc researcher at Shanghai Jiao Tong University, mentored by Prof. Zhijian Jin. Previously, I obtained my B.E. and Ph.D. from EE, Shanghai Jiao Tong University. I was on a research stay at operation research group, Technical University of Denmark, supervised by Prof. [https://pierrepinson.com/ Pierre Pinson] in 2021. 
 
-My research interests include machine learning applications in power system, time series prediction, uncertainty quantification, and decision making under uncertainty. Currently, I am focusing on the interplay between forecasting and decision making.
+My research interests include predictive and prescriptive analytics especially machine learning applications for power systems, energy forecasting, electricity markets, and decision making under uncertainty. Currently, I am focusing on the interplay between forecasting and decision making.
 
 
 == Supervision
@@ -19,15 +19,16 @@ My research interests include machine learning applications in power system, tim
 
 
 == News
-- Jun, 2022: Work on distribution-free probabilistic forecasting is revised and resubmitted to IEEE TSTE; see it on [https://arxiv.org/abs/2206.02433 Arxiv].
+- Nov, 2022: Work on targeted demand response is submitted to IEEE TPWRS.
+- Nov, 2022: Work on adaptive prediction interval is accepted by IEEE TSG.
+- Oct, 2022: Work on probabilistic forecasting with missing values is revised and resubmitted to IJF; see it on [https://arxiv.org/abs/2203.08252v2 Arxiv]
+- Oct, 2022: Work on value-oriented forecasting is submitted to IEEE TSG; see it on [https://arxiv.org/abs/2210.04152 Arxiv].
+- Jul, 2022: Work on distribution-free probabilistic forecasting is accepted by IEEE TSTE; see it on [https://arxiv.org/abs/2206.02433 Arxiv].
 - May, 2022: Work collaborated with Yufan Zhang on adaptive prediction interval is revised and resubmitted to IEEE TSG; see it on [https://arxiv.org/abs/2205.08698 Arxiv].
 - Mar, 2022: Work on probabilistic forecasting with missing values is submitted to IJF; see it on [https://doi.org/10.48550/arXiv.2203.08252 Arxiv].
 - Jan, 2022: Work on wind power probabilistic forecasting based on SVGP is accepted by IEEE TSTE.
 - Jan, 2022: Work collaborated with Yufan Zhang on adaptive prediction interval is submitted to IEEE TSG; see it on [https://doi.org/10.36227/techrxiv.17925911.v1 Techrxiv].
-- Nov, 2021: Work on distribution-free probabilistic forecasting is submitted to IEEE TSTE; see it on [https://doi.org/10.36227/techrxiv.16866280.v1 Techrxiv].
-- Oct, 2021: Work collaborated with Xiaoguang Zhu on action recognition is accepted by ACM TOMM!
-- Apr, 2021: Starting the research stay at OR group of DTU!
-- Mar, 2021: Work on prediction interval is accepted by IEEE TSG.
+
 
 
 == Selected Honors & Awards
