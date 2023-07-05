@@ -3,6 +3,10 @@
 
 == Publications
 
+- [http://dx.doi.org/10.1016/j.ijforecast.2022.12.006 Wind energy forecasting with missing values within a fully conditional specification framework] \n
+*Honglin Wen*, Pierre Pinson, Jie Gu, and Zhijian Jin\n
+/ International Journal of Forecasting/ (IJF 2023) \n
+
 - [https://arxiv.org/abs/2205.08698 Optimal Adaptive Prediction Intervals for Electricity Load Forecasting in Distribution Systems via Reinforcement Learning] \n
 Yufan Zhang, *Honglin Wen*, Qiuwei Wu, and Qian Ai\n 
 / IEEE Transactions on Smart Grid/ (IEEE TSG 2022)
@@ -42,9 +46,13 @@ Long Cai, *Honglin Wen*, Jie Gu, Jinghuan Ma, and Zhijian Jin \n
 
 == Preprints
 
-- [https://doi.org/10.48550/arXiv.2203.08252 Wind energy forecasting with missing values within a fully conditional specification framework] \n
-*Honglin Wen*, Pierre Pinson, Jie Gu, and Zhijian Jin\n
+
+
+- [https://arxiv.org/abs/2305.14662 Probabilistic Wind Power Forecasting with Missing Values via Adaptive Quantile Regression] \n
+*Honglin Wen*\n
 / Arxiv Preprint/ \n
+
+
 
 
 - [https://arxiv.org/abs/2210.04152 A Contextual Bandit Approach for Value-oriented Prediction Interval Forecasting] \n

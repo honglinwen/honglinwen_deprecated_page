@@ -19,6 +19,8 @@ My research interests include predictive and prescriptive analytics especially m
 
 
 == News
+- May, 2023: Work on forecasting with missing values (for both MAR and MNAR cases) is submitted to IEEE TSTE; see it on [https://arxiv.org/abs/2305.14662 Arxiv].
+- Jan, 2023: Work on forecasting with missing values is accpeted by International Journal of Forecasting; see it on [http://dx.doi.org/10.1016/j.ijforecast.2022.12.006 Elsevier],
 - Nov, 2022: Work on targeted demand response is submitted to IEEE TPWRS.
 - Nov, 2022: Work on adaptive prediction interval is accepted by IEEE TSG.
 - Oct, 2022: Work on probabilistic forecasting with missing values is revised and resubmitted to IJF; see it on [https://arxiv.org/abs/2203.08252v2 Arxiv]
